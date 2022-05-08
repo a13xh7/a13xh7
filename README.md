@@ -1,23 +1,12 @@
-
-
-<!--
-**a13xh7/a13xh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Hi there 👋
-<h3 align="left">Experienced QA Engineer proficient in manual and automation testing. <br>
+<h4 align="left">Experienced QA Engineer proficient in manual and automation testing. <br><br>
 Hobbyist UE4 developer.
-</h3>
+</h4>
+
+<h3 align="left">Projects:</h3>
+
+* Medusa Framework, visual regression testing tool  - https://github.com/a13xh7/MedusaFramework
+* SelenideBoilerplate, simple template for automated end-to-end testing. - https://github.com/a13xh7/SelenideBoilerplate
 
 
 <h3 align="left">Languages and Tools:</h3>

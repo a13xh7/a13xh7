@@ -1,7 +1,8 @@
 ### Hi there 👋
-<h4 align="left">Experienced QA Engineer proficient in manual and automation testing. <br><br>
-Hobbyist UE4 developer.
-</h4>
+
+<p align="left">Experienced QA Engineer proficient in manual and automation testing. </p>
+<p align="left">Hobbyist UE4 developer.</p>
+
 
 <h3 align="left">Projects:</h3>
 

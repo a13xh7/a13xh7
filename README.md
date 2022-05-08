@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Experienced QA Engineer proficient in manual and automation testing.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a13xh7" alt="a13xh7" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,4 +29,3 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a13xh7&show_icons=true&locale=en" alt="a13xh7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a13xh7&" alt="a13xh7" /></p>

@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-<h3 align="left">Experienced QA Engineer proficient in manual and automation testing.</h3>
+<h3 align="left">Experienced QA Engineer proficient in manual and automation testing. <br>
+Hobbyist UE4 developer.
+</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>

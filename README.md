@@ -8,7 +8,7 @@
 
 * Medusa Framework, visual regression testing tool  - https://github.com/a13xh7/MedusaFramework
 * SelenideBoilerplate, simple template for automated end-to-end testing. - https://github.com/a13xh7/SelenideBoilerplate
-
+* WexLangReader, language learning app (104 languages) - https://github.com/a13xh7/WexLangReader_Desktop
 
 <h3 align="left">Languages and Tools:</h3>
 

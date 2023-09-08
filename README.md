@@ -1,7 +1,7 @@
 ### Hi there, I'm Alex. 
 
 <p align="left">Experienced QA Engineer proficient in manual and automation testing.</p>
-<p align="left">Hobbyist UE4 & Web developer.</p>
+<p align="left">Hobbyist Unreal Engine 5 & Web developer.</p>
 
 
 <h3 align="left">Projects:</h3>
